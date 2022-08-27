@@ -47,4 +47,5 @@ There are several features planned to be implemented to the Py-Pac-Poe in the fu
 * A mobile app to play the game
 * Online multiplayer
 * A GUI to play the game
+* Players can input their names and choose their mark
 

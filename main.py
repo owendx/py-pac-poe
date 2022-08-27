@@ -1,4 +1,3 @@
-# print a message that says the following
 # ________________________
 # Let's Play Py-Pac-Poe'
 # ------------------------
